@@ -1,0 +1,5 @@
+setup.py
+cnpm1.egg-info/PKG-INFO
+cnpm1.egg-info/SOURCES.txt
+cnpm1.egg-info/dependency_links.txt
+cnpm1.egg-info/top_level.txt
